@@ -1,0 +1,210 @@
+22.05.2023 | 13:29:18 sasha_sush : /test
+22.05.2023 | 13:30:15 sasha_sush : /gpt@chatik_jepete_bot
+22.05.2023 | 13:31:15 [Startup]
+22.05.2023 | 13:31:20 sasha_sush : /test дупа
+22.05.2023 | 13:31:29 sasha_sush : /gpt скільки?
+22.05.2023 | 13:31:31 reply to 'скільки?' : Стоцент двох мить складає 20%.
+22.05.2023 | 13:31:42 sasha_sush : /gpt
+22.05.2023 | 13:31:45 reply to 'Стоцент двох мить складає 20%.' : Розрахунок проценту двох мить:
+20 / 100 = 0.2
+0.2 x 2 = 0.4
+Тобто, процент двох мить становить 0,4 (або 4%).
+22.05.2023 | 13:31:58 sasha_sush : /gpt /gpt pupka
+22.05.2023 | 13:32:02 reply to '/gpt pupka' : /gpt
+
+This is a type of game piece used in the game of Go. Go is a two-player board game where players compete to surround more territory on a 19x19 grid board. GPT stands for 'Go Point Piece', and is a kind of game piece within Go. It is placed on the intersections of the grid, and limits the opponent's movement and territory.
+22.05.2023 | 13:32:11 [Startup]
+22.05.2023 | 13:32:39 sasha_sush : /gpt /gpt@buba_baba кіко?
+22.05.2023 | 13:32:46 reply to '/gpt@buba_baba кіко?' : Хаха, Кіко – це дуже відома надзвичайно цікава японська відеогра. У грі присутні великі пошуки та дуже кращі заходи. Завдяки багатьох бонусам ти можеш досягти великих досягнень і завоювати суперсекрети.
+22.05.2023 | 13:33:01 sasha_sush : /gpt /gpt який ти бабізян?
+22.05.2023 | 13:33:21 reply to '/gpt який ти бабізян?' : Бабізян моя мама – сильна особа і найкращий друже для мене. Вона цінує слово, дотримується заповідей, навчає мене бути правдивим і уважним і вміє слухати мене, навіть якщо процес прийняття рішень вимагає часу. Вона завжди дає мені вартість й справедливість і дає розумні поради. Бабізяна мені навчає пристосуватися до ситуації, важливою для мене є здоров’я, будь-які досягнення і зміни. Завдяки неї я можу бути справжнім і квіткуючим, працювати над власними поставленими метами і не змушуватися до сприйняття того, чийсь опікування мене компромітує.
+22.05.2023 | 13:34:49 [Startup]
+22.05.2023 | 13:34:52 [None] sasha_sush : /test
+22.05.2023 | 13:34:58 [SUS] sasha_sush : /test@chatik_jepete_bot
+22.05.2023 | 13:35:27 [Startup]
+22.05.2023 | 13:35:52 --Startup--
+22.05.2023 | 13:45:33 --Startup--
+22.05.2023 | 13:48:13 --Startup--
+22.05.2023 | 13:56:43 --Startup--
+22.05.2023 | 13:59:41 --Startup--
+22.05.2023 | 14:02:16 --Startup--
+22.05.2023 | 14:10:27 --Startup--
+22.05.2023 | 14:11:49 --Startup--
+22.05.2023 | 14:12:20 --Startup--
+22.05.2023 | 14:13:03 --Startup--
+22.05.2023 | 14:14:57 --Startup--
+22.05.2023 | 14:15:23 --Startup--
+22.05.2023 | 14:16:14 --Startup--
+22.05.2023 | 14:16:58 --Startup--
+22.05.2023 | 14:17:38 --Startup--
+22.05.2023 | 14:18:20 --Startup--
+22.05.2023 | 14:18:54 --Startup--
+22.05.2023 | 14:21:11 --Startup--
+22.05.2023 | 14:21:56 --Startup--
+22.05.2023 | 14:29:03 --Startup--
+22.05.2023 | 14:29:41 --Startup--
+22.05.2023 | 14:29:41 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 14:30:00 --Startup--
+22.05.2023 | 14:30:02 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 14:30:20 --Startup--
+22.05.2023 | 14:30:22 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 14:30:58 --Startup--
+22.05.2023 | 14:30:59 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 14:31:23 --Startup--
+22.05.2023 | 14:31:24 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 14:31:48 --Startup--
+22.05.2023 | 14:31:50 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 14:32:03 --Startup--
+22.05.2023 | 14:32:04 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 14:32:16 --Startup--
+22.05.2023 | 14:32:17 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 14:36:17 --Startup--
+22.05.2023 | 14:36:24 [None] sasha_sush : /givnorant_roll --last
+22.05.2023 | 14:37:16 --Startup--
+22.05.2023 | 14:37:19 [None] sasha_sush : /givnorant_roll --last
+22.05.2023 | 14:37:49 --Startup--
+22.05.2023 | 14:37:50 [None] sasha_sush : /givnorant_roll --last
+22.05.2023 | 14:38:04 --Startup--
+22.05.2023 | 14:38:09 [None] sasha_sush : /givnorant_roll --last
+22.05.2023 | 14:38:19 --Startup--
+22.05.2023 | 14:38:22 [None] sasha_sush : /givnorant_roll --last
+22.05.2023 | 14:57:30 --Startup--
+22.05.2023 | 15:00:18 [None] sasha_sush : /gpt скільки кольорів в веселці
+22.05.2023 | 15:00:30 reply to 'скільки кольорів в веселці' : У веселці може бути багато різних кольорів. Залежно від матеріалу та стилю, можемо знайти натхнення для різних оточень і комбінації кольорів. Наприклад, звичайна веселка може бути оформлена в кольорах білого, пестрого, рожевого, жовтого, зеленого, темно-зеленого та чорного. Також можна додати деякі яскраві тони, які можуть створити додаткову діалогову сторону.
+22.05.2023 | 15:01:14 [None] sasha_sush : /percent @htos хуй
+22.05.2023 | 15:01:45 [None] sasha_sush : /percent @chatik_jepete_bot гнида
+22.05.2023 | 15:02:03 [None] sasha_sush : /givnorant_roll
+22.05.2023 | 15:02:49 [None] sasha_sush : /givnorant_roll --last
+22.05.2023 | 15:03:19 --Startup--
+22.05.2023 | 15:03:26 [None] sasha_sush : /givnorant_roll --last
+22.05.2023 | 15:03:44 [None] sasha_sush : /givnorant_roll dpsps jsusjs hshshshs djdjjs djehsj
+22.05.2023 | 15:04:10 [None] sasha_sush : /givnorant_roll --last
+22.05.2023 | 15:04:40 [None] sasha_sush : /givnorant_roll --last --only icebox pearl bind
+22.05.2023 | 15:05:00 [None] sasha_sush : /givnorant_roll --last --except bind
+22.05.2023 | 15:05:44 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:15:31 --Startup--
+23.05.2023 | 03:15:36 [None] sasha_sush : /test
+23.05.2023 | 03:15:42 [None] sasha_sush : /givnorant_roll
+23.05.2023 | 03:15:51 [None] sasha_sush : /givnorant_roll -p p1 p2 p3
+23.05.2023 | 03:16:23 [None] sasha_sush : /givnorant_roll -l
+23.05.2023 | 03:17:01 [None] sasha_sush : /givnorant_roll -o ascent bind fracture -l
+23.05.2023 | 03:18:31 [None] sasha_sush : /givnorant_roll -lm -p player1 player2 player3
+23.05.2023 | 03:18:56 [None] sasha_sush : /givnorant_roll --last --last-maps
+23.05.2023 | 03:19:40 --Startup--
+23.05.2023 | 03:19:51 [None] sasha_sush : /givnorant_roll --last --only bind breeze ascent
+23.05.2023 | 03:20:14 [None] sasha_sush : /givnorant_roll -l -lm
+23.05.2023 | 03:20:39 --Startup--
+23.05.2023 | 03:20:43 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:21:11 --Startup--
+23.05.2023 | 03:21:16 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:21:28 --Startup--
+23.05.2023 | 03:21:34 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:29:06 --Startup--
+23.05.2023 | 03:29:13 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:29:38 --Startup--
+23.05.2023 | 03:29:40 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:31:57 --Startup--
+23.05.2023 | 03:31:59 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:33:45 --Startup--
+23.05.2023 | 03:33:48 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:40:14 --Startup--
+23.05.2023 | 03:40:17 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:40:57 --Startup--
+23.05.2023 | 03:41:00 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:45:12 --Startup--
+23.05.2023 | 03:45:15 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:45:19 [None] sasha_sush : /givnorant_roll --last
+23.05.2023 | 03:47:49 --Startup--
+23.05.2023 | 03:48:03 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:53:18 --Startup--
+23.05.2023 | 03:53:23 --Startup--
+23.05.2023 | 03:53:27 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:53:47 --Startup--
+23.05.2023 | 03:53:52 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:54:05 --Startup--
+23.05.2023 | 03:54:08 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:54:39 --Startup--
+23.05.2023 | 03:54:39 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:54:47 --Startup--
+23.05.2023 | 03:54:51 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:55:47 --Startup--
+23.05.2023 | 03:55:52 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:56:59 --Startup--
+23.05.2023 | 03:57:04 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:57:11 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:58:47 --Startup--
+23.05.2023 | 03:58:49 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:58:53 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:58:54 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:59:04 --Startup--
+23.05.2023 | 03:59:05 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 03:59:30 --Startup--
+23.05.2023 | 03:59:41 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 04:00:11 --Startup--
+23.05.2023 | 04:00:14 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 04:01:03 --Startup--
+23.05.2023 | 04:01:05 [None] sasha_sush : /vroll -p p1 p2 p3 p4 p5 -o
+23.05.2023 | 04:01:05 2
+23.05.2023 | 04:02:16 --Startup--
+23.05.2023 | 04:02:16 [None] sasha_sush : /vroll
+23.05.2023 | 04:02:16 [None] sasha_sush : /vroll
+23.05.2023 | 04:02:19 [None] sasha_sush : /vroll
+23.05.2023 | 04:03:11 --Startup--
+23.05.2023 | 04:03:14 [None] sasha_sush : /vroll
+23.05.2023 | 04:03:37 --Startup--
+23.05.2023 | 04:03:37 [None] sasha_sush : /vroll
+23.05.2023 | 04:03:41 [None] sasha_sush : /vroll
+23.05.2023 | 04:03:56 --Startup--
+23.05.2023 | 04:03:57 [None] sasha_sush : /vroll
+23.05.2023 | 04:04:58 --Startup--
+23.05.2023 | 04:04:58 [None] sasha_sush : /vroll
+23.05.2023 | 04:06:11 [None] sasha_sush : /vroll -l
+23.05.2023 | 04:14:49 --Startup--
+23.05.2023 | 04:15:11 --Startup--
+23.05.2023 | 04:15:19 [тест чата жпт] sasha_sush : /vroll -l
+23.05.2023 | 04:16:47 --Startup--
+23.05.2023 | 04:16:50 [тест чата жпт] sasha_sush : /vroll
+23.05.2023 | 04:16:56 [тест чата жпт] sasha_sush : /vroll -l
+23.05.2023 | 04:19:38 --Startup--
+23.05.2023 | 04:19:42 [None] sasha_sush : /vroll
+23.05.2023 | 04:20:38 --Startup--
+23.05.2023 | 04:20:56 --Startup--
+23.05.2023 | 04:21:02 --Startup--
+23.05.2023 | 04:21:08 [None] sasha_sush : /vroll ?
+23.05.2023 | 04:21:14 [None] sasha_sush : /vroll -?
+23.05.2023 | 04:21:21 --Startup--
+23.05.2023 | 04:21:24 [None] sasha_sush : /vroll -?
+23.05.2023 | 04:21:41 --Startup--
+23.05.2023 | 04:21:44 [None] sasha_sush : /vroll -?
+23.05.2023 | 04:21:50 [None] sasha_sush : /vroll --help
+23.05.2023 | 04:21:59 --Startup--
+23.05.2023 | 04:22:01 [None] sasha_sush : /vroll --help
+23.05.2023 | 04:22:28 --Startup--
+23.05.2023 | 04:22:31 [None] sasha_sush : /vroll
+23.05.2023 | 13:18:29 --Startup--
+23.05.2023 | 13:18:29 [тест чата жпт] sasha_sush : /vroll@chatik_jepete_bot
+23.05.2023 | 13:19:14 [SUS] sasha_sush : /vroll
+23.05.2023 | 13:20:09 --Startup--
+23.05.2023 | 13:20:16 [SUS] sasha_sush : /vroll
+23.05.2023 | 13:20:46 [SUS] sasha_sush : /vroll
+23.05.2023 | 13:21:17 [SUS] sasha_sush : /vroll -p player1 player2 player3 player4
+23.05.2023 | 13:21:27 [SUS] sasha_sush : /vroll
+23.05.2023 | 13:22:25 [SUS] sasha_sush : /vroll -p Mrak gustavo_suso TwoSausages trahmachin TNTshechka GotBohdan Juceek NikolasGo
+23.05.2023 | 13:22:59 [SUS] sasha_sush : /vroll
+23.05.2023 | 13:23:24 [SUS] sasha_sush : /vroll --only Breeze Haven Split
+23.05.2023 | 13:24:57 --Startup--
+23.05.2023 | 13:24:58 [SUS] sasha_sush : /vroll --only Breeze Haven Split
+23.05.2023 | 13:25:40 --Startup--
+23.05.2023 | 13:25:40 [SUS] sasha_sush : /vroll -lm
+23.05.2023 | 13:26:39 --Startup--
+23.05.2023 | 13:26:45 [тест чата жпт] sasha_sush : /vroll --help
+23.05.2023 | 13:29:04 --Startup--
+23.05.2023 | 13:29:07 [тест чата жпт] sasha_sush : /vroll --help
+23.05.2023 | 13:29:23 --Startup--
+23.05.2023 | 13:29:26 [тест чата жпт] sasha_sush : /vroll --help
+23.05.2023 | 18:37:40 --Startup--
+23.05.2023 | 18:37:45 [тест чата жпт] sasha_sush : /vroll
+23.05.2023 | 18:38:22 --Startup--
+23.05.2023 | 18:38:24 [тест чата жпт] sasha_sush : /vroll
+23.05.2023 | 18:38:39 --Startup--
+23.05.2023 | 18:38:41 [тест чата жпт] sasha_sush : /vroll
